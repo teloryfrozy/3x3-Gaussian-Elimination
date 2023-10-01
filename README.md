@@ -4,9 +4,8 @@ This Python program implements the Gaussian Elimination method to solve a system
 
 ###🚀 Usage
 
-    Replace the matrix M and vector S in the code with your specific coefficients and numbers.
-
-    Run the program.
+Replace the matrix M and vector S in the code with your specific coefficients and numbers.
+Run the program.
 
 ```python
 M = [[1, 2, -1], [2, 3, 1], [1, 1, 1]]
